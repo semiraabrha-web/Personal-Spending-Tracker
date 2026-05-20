@@ -1,0 +1,30 @@
+
+--- Daily Report ---
+Daily total: $7.00
+Less than yesterday by $8.00
+Under daily budget by $13.00
+
+--- Weekly Report ---
+Weekly total: $306.00
+More than last week by $211.00
+Over weekly budget by $206.00
+
+--- Monthly Report ---
+Monthly total: $306.00
+Less than last month by $74.00
+Under monthly budget by $94.00
+
+--- Daily Report ---
+Daily total: $15.00
+Less than yesterday by $0.00
+Under daily budget by $5.00
+
+--- Weekly Report ---
+Weekly total: $129.00
+More than last week by $34.00
+Over weekly budget by $29.00
+
+--- Monthly Report ---
+Monthly total: $784.00
+More than last month by $404.00
+Over monthly budget by $384.00
